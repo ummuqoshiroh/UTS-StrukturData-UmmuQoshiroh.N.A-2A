@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711777006 source:d:\struktur data\struktur data-pert1\revisi uts\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
